@@ -1,0 +1,65 @@
+## ─── Audio Files (Excluded) ───
+*.wav
+*.mp3
+*.ogg
+*.flac
+*.m4a
+*.aac
+*.wma
+*.aiff
+*.pcm
+my_voice.wav
+output.wav
+indicf5_output.wav
+
+## ─── Machine Learning Model Weights (Excluded) ───
+*.onnx
+*.onnx.data
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.tflite
+*.gguf
+Models/*.onnx
+Models/*.safetensors
+Models/*.bin
+Models/*.pt
+Models/*.pth
+# Keep vocab.txt tracked in git
+!Models/vocab.txt
+
+## ─── .NET / Build Outputs ───
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Aa]pp[Hh]ost.exe
+publish/
+*.dll
+*.pdb
+*.exe
+
+## ─── IDE & Tooling ───
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+## ─── Logs & Temp Files ───
+*.log
+*.tmp
+*.temp
+*.cache
+
+## ─── OS Specific ───
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
