@@ -95,7 +95,7 @@
                          AcceptsReturn="True" TextWrapping="Wrap"
                          VerticalScrollBarVisibility="Auto"
                          FontSize="15" FontFamily="Nirmala UI, Segoe UI"
-                         Text="कसली छान बनलेली आहे शाबु खीर.&#x0a;आज आपण बनवलेली आहे शाबु खीर.&#x0a;चला बघूया तर रेसीपी."
+                         Text="कृत्रिम बुद्धिमत्ता आणि भाषा तंत्रज्ञान आज वेगाने विकसित होत आहे.&#x0a;भारतीय भाषांसाठी अत्याधुनिक तंत्रज्ञानाचा वापर करून आवाज निर्मिती करणे आता अधिक सोपे आणि प्रभावी झाले आहे.&#x0a;हे तंत्रज्ञान आपल्या संवादाला एक नवीन दिशा आणि ऊर्जा देते."
                          Margin="0,0,0,12"/>
 
                 <TextBlock Grid.Row="2" Text="Reference Voice Sample" FontSize="14" FontWeight="SemiBold"
